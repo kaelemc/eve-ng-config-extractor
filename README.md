@@ -1,3 +1,7 @@
+# Deprecated
+
+See [eve2clab](https://github.com/kaelemc/eve2clab)
+
 # eve-ng-config-extractor
 
 Extract device configs from EVE-NG `.unl` files. Meant for Cisco configs only, may work with other vendors with some modification.
